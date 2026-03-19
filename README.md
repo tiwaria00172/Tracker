@@ -1,2 +1,2 @@
 # Tracker
-## A student management app just like leetcode
+## A student management app just like leetcode.
